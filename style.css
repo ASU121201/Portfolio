@@ -35,14 +35,18 @@ footer {
 
 #projects a {
   border: 2px solid #000;
+  border-radius: 10px; 
   padding: 5px 10px;
   display: inline-block;
   margin-top: 10px;
   text-decoration: none;
-  background-color: #f0f0f0; 
-  color: #000; 
+  background-color: #3498db;
+  color: #f0f0f0;
 }
+
 
 #projects a:hover {
   background-color: #3498db;
 }
+
+
